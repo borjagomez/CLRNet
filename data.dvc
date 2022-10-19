@@ -1,0 +1,5 @@
+outs:
+- md5: ec3c840f813488ee45560fab8e453cad.dir
+  size: 45577096486
+  nfiles: 11
+  path: data
